@@ -1,4 +1,4 @@
-## Hi, I'm João Victor 👋
+## Hello, I'm João Victor
 
 Software Engineering student at IBMEC (Rio de Janeiro, Brazil), graduating in June 2028.
 
@@ -8,7 +8,6 @@ I work with Python, SQL and JavaScript. I build back ends with FastAPI and Flask
 - 💼 Former Innovation Consultant at IBMEC JR, working on SQL queries and metrics for consulting projects
 - 🌱 Currently improving my Git workflow and studying Java and C++
 - 🤝 Open to Software Engineering internships in Brazil
-- ⚡ Fun fact: I once won money playing video games
 
 <br>
 
