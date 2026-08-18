@@ -59,10 +59,21 @@ I work with Python, SQL and JavaScript, and I build web applications using React
 
 <br>
 
-## 📊 GitHub stats
-
+## GitHub stats
 <div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JVictor-De&show_icons=true&theme=aura&border_radius=7.5&hide_border=true&include_all_commits=true&count_private=true&card_width=450" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVictor-De&layout=compact&theme=aura&border_radius=7.5&hide_border=true&langs_count=8&card_width=320" />
+
+<br><br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JVictor-De&theme=aura&border_radius=7.5&hide_border=true)](https://git.io/streak-stats)
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JVictor-De&theme=react-dark&bg_color=00000000&color=a277ff&line=61ffca&point=ffffff&hide_border=true&area=true" width="95%" />
+
+</div>
 ![Stats](https://github-readme-stats.vercel.app/api?username=JVictor-De&show_icons=true&theme=aura&hide_border=true&border_radius=7.5)
 
 ![Streak](https://streak-stats.demolab.com?user=JVictor-De&theme=aura&border_radius=7.5&hide_border=true)
